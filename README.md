@@ -32,5 +32,5 @@ I focus on building backend systems and understanding how things work internally
 ---
 
 ## 🌍 Connect
-- 📧 heybbyaligmail.com
+- 📧 heybbyali@gmail.com
   
