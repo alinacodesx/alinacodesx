@@ -27,7 +27,7 @@ I focus on building backend systems and understanding how things work internally
 ---
 
 ## 📊 GitHub Stats
-![stats](https://github-readme-stats.vercel.app/api?username=alinnacodesx&show_icons=true&theme=dark)
+![stats](https://github-readme-stats-sigma-five.vercel.app/api?username=alinacodesx&show_icons=true&theme=dark)
 
 ---
 
