@@ -30,7 +30,7 @@ I focus on building backend systems and understanding how things work internally
 ![stats](https://github-readme-stats-sigma-five.vercel.app/api?username=alinacodesx&show_icons=true&theme=dark)
 
 ---
-![snake](https://raw.githubusercontent.com/alinacodesx/alinacodesx/output/dist/github-contribution-grid-snake.svg)
+![snake dark](https://raw.githubusercontent.com/alinacodesx/alinacodesx/output/dist/github-contribution-grid-snake-dark.svg)
 ---
 ## 🌍 Connect
 - 📧 heybbyali@gmail.com
