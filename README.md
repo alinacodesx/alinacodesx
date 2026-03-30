@@ -4,15 +4,15 @@
 
 ---
 
-## ⚡ What I Do
-- 🧠 Strong foundation in Python
-- ⚙️ Moving towards backend development (Flask)
-- 🛠️ Build real projects, not just practice
-- 🔁 Consistency > motivation
+##  What I Do
+-  Strong foundation in Python
+-  Moving towards backend development (Flask)
+-  Build real projects, not just practice
+-  Consistency > motivation
 
 ---
 
-## 🎯 Direction
+##  Direction
 I focus on building backend systems and understanding how things work internally.
 
 ---
