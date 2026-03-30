@@ -34,4 +34,8 @@ I focus on building backend systems and understanding how things work internally
 ---
 ## 🌍 Connect
 - 📧 heybbyali@gmail.com
-  
+
+   https://www.holopin.io/@alinacodesx#
+   ## 🏆 Badges
+
+[![Holopin badges](https://holopin.me/alinacodesx)](https://holopin.io/@alinacodesx)
