@@ -4,11 +4,12 @@
 
 ---
 
-##  What I Do
--  Strong foundation in Python
--  Moving towards backend development (Flask)
--  Build real projects, not just practice
--  Consistency > motivation
+### What I Do
+
+• Build real-world backend systems using Python and Flask  
+• Translate ideas into working applications with structured logic  
+• Work on data-driven problem solving and system design fundamentals  
+• Focus on understanding the complete flow: input → processing → output
 
 ---
 
