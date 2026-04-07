@@ -1,12 +1,10 @@
 # 👋 Hi, I'm Alina
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=Backend+Developer+in+Progress;Building+real+systems;Execution+over+ideas🚀)
-
+![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=Backend+Systems+Learner;Building+Logic-Driven+Applications;Execution+over+Ideas🚀)
 ---
 
 ### What I Do
-
-• Build real-world backend systems using Python and Flask  
+• Build backend-focused projects using Python and Flask
 • Translate ideas into working applications with structured logic  
 • Work on data-driven problem solving and system design fundamentals  
 • Focus on understanding the complete flow: input → processing → output
