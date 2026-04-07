@@ -14,7 +14,6 @@
 ---
 
 ##  Direction
-### Direction
 
 Currently focused on learning backend systems by building real projects.  
 Moving towards integrating AI to create intelligent, real-world applications.
