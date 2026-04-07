@@ -14,8 +14,10 @@
 ---
 
 ##  Direction
-I focus on building backend systems and understanding how things work internally.
+### Direction
 
+Currently focused on learning backend systems by building real projects.  
+Moving towards integrating AI to create intelligent, real-world applications.
 ---
 
 ## 🧰 Tech Stack
