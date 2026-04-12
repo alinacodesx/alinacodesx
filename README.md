@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Alina
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=Backend+Systems+Learner;Building+Logic-Driven+Applications;Execution+over+Ideas🚀)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=AI+INTEGERATION+LEARNERr;Building+Logic-Driven+Applications;Execution+over+Ideas🚀)
 ---
 
 ### What I Do
