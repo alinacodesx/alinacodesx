@@ -4,7 +4,7 @@
 ---
 
 ### What I Do
-• Build backend-focused projects using Python and Flask
+• learning ai integeration 
 • Translate ideas into working applications with structured logic  
 • Work on data-driven problem solving and system design fundamentals  
 • Focus on understanding the complete flow: input → processing → output
@@ -15,7 +15,7 @@
 
 ##  Direction
 
-Currently focused on learning backend systems by building real projects.  
+
 Moving towards integrating AI to create intelligent, real-world applications.
 ---
 
